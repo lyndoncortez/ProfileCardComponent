@@ -2,6 +2,8 @@
 
 💾 You can preview it here: [Profile Card Component](http://profile-card-component-git-main.lyndoncortez.vercel.app/)
 
+![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
+
 ## The challenge
 
 Your challenge is to build out this social proof section and get it looking as close to the design as possible.
